@@ -8,7 +8,7 @@ public class Admin {
         }
         System.out.print("Enter Password : ");
         String pass = Main.sc.nextLine();
-        if (uname.equals("a") && pass.equals("z")) {
+        if (uname.equals("admin") && pass.equals("qwerty")) {
             adminpage();
         } else {
             System.out.println("Invalid Credentials ! Try again");

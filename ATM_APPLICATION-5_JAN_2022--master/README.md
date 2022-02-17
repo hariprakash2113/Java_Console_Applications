@@ -1,3 +1,5 @@
 # ATM_APPLICATION
 
-A simple ATM Apllication that Runs on the Console.Entierly build Using JAVA.
+
+To run this appication use Admin username as "hari"
+                       use password as "1234"
